@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+require "jekyll-crunchbase/cli"
+
+JekyllCrunchbase::CLI.start
