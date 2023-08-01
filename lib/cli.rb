@@ -17,6 +17,11 @@ module JekyllCrunchbase
     #   # Do things
     # end
 
+    desc 'get', 'jekyll-crunchbase get [uuid|permalink]'
+    def get
+      puts 'get'
+    end
+
     desc 'version', 'jekyll-crunchbase version'
     def version
       puts JekyllCrunchbase::VERSION
