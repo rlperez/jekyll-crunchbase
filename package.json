@@ -1,0 +1,5 @@
+{
+  "devDependencies": {
+    "semantic-release-rubygem": "^1.2.0"
+  }
+}
